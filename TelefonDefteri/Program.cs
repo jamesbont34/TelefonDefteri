@@ -10,6 +10,8 @@ namespace TelefonDefteri
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
